@@ -1,0 +1,6 @@
+Dentro de cada caso se pregunta cada variable 
+Si movimiento=si entonces el caso es sospechoso
+Si luz=si entonces el caso es seguro
+Si luz=no Y movimiento=si el caso es sospechoso
+
+
