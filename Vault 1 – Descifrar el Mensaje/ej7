@@ -1,0 +1,5 @@
+Contar las letras del abecedario y asignarle un numero
+Leer la letra del codigo a descifrar
+Contar la posicion de esa letra en el abecedario
+Restarle uno y gurdar la nueva letra de esa posicion
+Imprimir el resultado de cada letra
