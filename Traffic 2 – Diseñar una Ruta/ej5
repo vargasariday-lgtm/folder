@@ -1,0 +1,15 @@
+Inicio
+  posicion = A
+  
+  Si posicion == A entonces
+     mover a D
+ 
+  
+  Si posicion == D entonces
+     mover a E
+  
+  
+  Si posicion == E entonces
+     mover a F
+  
+  
