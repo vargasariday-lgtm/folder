@@ -1,0 +1,7 @@
+Si movimiento=si Y luz= no, entonces acitividad sospechosa
+Si movimineto= no Y luz=si, entonces actividad normal
+Si movimiento= no Y luz=no, entonces actividad normal
+
+Si lee que hay movimiento va a mandar actividad sospechosa.
+Si lee que hay movimiento sin luz tambien manda actividad sospechosa 
+Si lee que no hay movimiento con luz o sin luz va a mandar actividad normal
