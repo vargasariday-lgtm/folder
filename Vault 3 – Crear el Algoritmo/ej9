@@ -1,0 +1,7 @@
+Enumerar las letras del abecedario del 1 al 27
+Leer las letras individuales de el codigo
+Leer el numero de posicion en el que se encuentran
+Restarle 1 a cada numero de posicion
+Si el resultado es 0 la letra es Z
+Si no Identficiar en el abecedario las letras de las nuevas posiciones
+Imprimir el nuevo mensaje
