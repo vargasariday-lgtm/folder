@@ -1,0 +1,13 @@
+Pasar por A,D,E,B,C,F
+Contar numero de veces pasadas
+
+Pasar por A
+Ir a la derecha y pasar por B 
+Ir a la derecha y pasar por C 
+Cambiar para abajo porque no hay mas variables
+Ir para abajo y llegar a F
+
+Contar en numero de veces pasadas
+
+Comparar dos rutas
+Escoger la menor
